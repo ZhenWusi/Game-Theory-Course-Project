@@ -1,18 +1,8 @@
-<<<<<<< HEAD
+
 # Simulation of GTM-CSec
 [![HitCount](http://hits.dwyl.com/MexsonFernandes/Simulate_GTM-CSec.svg)](http://hits.dwyl.com/MexsonFernandes/Simulate_GTM-CSec)
 
 Game theory model for cloud security based on IDS and honeypot.
-
-## Modules:
-* drawnow
-* matplotlib
-* pandas
-* numpy
-* random
-* schedule
-
-<a href='https://ko-fi.com/Y8Y31LBT4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 ## How to start?
