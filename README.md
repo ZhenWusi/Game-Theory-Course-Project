@@ -1,6 +1,7 @@
 
 # GTM-CSec仿真
-本仓库由甄五四、刘涛、梁浩哲基于论文“GTM-CSec: Game theoretic model for cloud security based on IDS and honeypot”合作完成的博弈仿真实验，论文连接https://www.sciencedirect.com/science/article/pii/S0167404820300195
+本仓库由甄五四、刘涛、梁浩哲基于论文“GTM-CSec: Game theoretic model for cloud security based on IDS and honeypot”合作完成的博弈仿真实验。
+论文连接https://www.sciencedirect.com/science/article/pii/S0167404820300195
 ## 如何开始?
 * 安装依赖项:
     - `pip install -r requirements.txt`
