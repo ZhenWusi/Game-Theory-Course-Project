@@ -5,11 +5,11 @@
 Game theory model for cloud security based on IDS and honeypot.
 
 
-## How to start?
-* Install dependecies:
+## 如何开始?
+* 安装依赖项:
     - `pip install -r requirements.txt`
 * Run script:
-    - `python generate.py`
+    - `python simulation.py`
 
 Note: chek result in `output.png` folder.
 
@@ -32,8 +32,4 @@ Research Paper Link: https://www.sciencedirect.com/science/article/pii/S01674048
 5) Case 6: 
 <img src="samples/CASE6.png"/>
 
-6) Case 7: 
-<img src="samples/CASE7.png"/>
-=======
-# Game-Theory-Course-Project
->>>>>>> cb2f145d90e5312e7fa81ed4fc591cf80ea9f646
+##我们的仿真结果已经保存到中，如果你想可视化我们的仿真结果你可以运行plt.py
