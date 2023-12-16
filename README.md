@@ -18,7 +18,7 @@ Research Paper Link: https://www.sciencedirect.com/science/article/pii/S01674048
 ## Samples:
 
 1) Case 2: 
-<img src="samples/CASE2.png"/>
+<img src="images/Case_2_Result.png"/>
 
 2) Case 3: 
 <img src="samples/CASE3.png"/>
